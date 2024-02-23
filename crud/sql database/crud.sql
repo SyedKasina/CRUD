@@ -40,11 +40,11 @@ CREATE TABLE `student` (
 --
 
 INSERT INTO `student` (`sid`, `sname`, `saddress`, `sclass`, `sphone`) VALUES
-(1, 'Sila Khatri', '#34 sdfdsfsdf', 1, '9898989874'),
-(2, 'Anita Chettri', '#654 KD Building Mumbai', 1, '9874587456'),
-(11, 'Jasmine Singh', '#34 JC Road, abc', 1, '9845546546'),
-(12, 'Sangam B', '#76 SK Building,Pkr', 3, '9827135435'),
-(13, 'Ritika Singh', '#45 RS Buiding', 3, '34435435');
+(1, 'Kasina', '#34 sdfdsfsdf', 1, '9898989874'),
+(2, 'Aditya', '#654 KD Building Mumbai', 1, '9874587456'),
+(11, 'RAje', '#34 JC Road, abc', 1, '9845546546'),
+(12, 'Snajay', '#76 SK Building,Pkr', 3, '9827135435'),
+(13, 'vikas', '#45 RS Buiding', 3, '34435435');
 
 -- --------------------------------------------------------
 
